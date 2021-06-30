@@ -1,0 +1,40 @@
+.css-qipsc5 {
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    font-size: 22px;
+    -webkit-box-pack: center;
+    justify-content: center;
+    font-weight: 500;
+    padding: 2.25rem 3.75rem;
+    border-radius: 69.25rem;
+    margin: 22px;
+    line-height: 1.6;
+    color: #08289d;
+    background-color: #c7deed;
+    border: 5px solid #4949ad;
+    margin-left: 197px;
+    margin-top: 58px;
+}
+
+h1:first-of-type, h2:first-of-type, h3first-of-type {
+    margin-top: 0.5rem;
+    text-align: center;
+    text-decoration: underline;
+    font-family: sans-serif;
+}
+
+.css-hi6a2p {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    border: 2px solid #1c29a1;
+    margin: 3pc;
+    border-radius: 20px;
+    padding-top: 2px;
+    background-color: #dff2f5;
+}
+
+.block-container.css-hi6a2p.eknhn3m2 {
+    position: relative;
+    width: 487px;
+}
