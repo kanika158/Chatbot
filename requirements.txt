@@ -2,3 +2,4 @@ nltk
 sklearn
 gtts
 playsound
+speech_recognition
