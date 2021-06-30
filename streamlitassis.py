@@ -24,7 +24,7 @@ def local_css(file_name):
 
 local_css("style.css")
 
-for downloading package files can be commented after First run
+# for downloading package files can be commented after First run
 nltk.download('popular', quiet=True)
 nltk.download('nps_chat',quiet=True)
 nltk.download('punkt') 
