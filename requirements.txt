@@ -4,3 +4,4 @@ gtts
 playsound
 speechrecognition
 gi
+pgi
