@@ -3,6 +3,3 @@ sklearn
 gtts
 playsound
 speechrecognition
-pgi
-gi
-python3-gi
