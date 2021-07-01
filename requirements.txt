@@ -3,5 +3,4 @@ sklearn
 gtts
 playsound
 speechrecognition
-vext.gi
-vext
+
