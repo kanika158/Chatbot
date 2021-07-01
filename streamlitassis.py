@@ -3,7 +3,6 @@ import streamlit as st
 #import io
 import random
 import string
-import gi
 import nltk
 import warnings
 #import numpy as np
