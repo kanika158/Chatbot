@@ -3,5 +3,4 @@ sklearn
 gtts
 playsound
 speechrecognition
-gi
 pgi
